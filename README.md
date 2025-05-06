@@ -6,14 +6,14 @@ This repository contains the data underlying some of the figures in the publicat
 
 Title: On the origin of Jupiter's fuzzy core: constraints from N-body, impact, and evolution simulations
 
-Authors: Thomas Meier, Christian Reinhardt, Sho Shibata, Simon Müller, Joachim Stadel, Ravit Helled
+Authors: Thomas Meier(1), Christian Reinhardt(1,2), Sho Shibata(3), Simon Müller(1), Joachim Stadel(1), Ravit Helled(1)
 
 Corresponding author: Thomas Meier <thomas.meier5@uzh.ch>
 
-Affiliations:
-Department of Astrophysics, University of Zurich, Switzerland
-Physics Institute, Space Research and Planetary Sciences, Center for Space and Habitabiliy, University of Bern
-Department of Earth, Environmental and Planetary Sciences, Rice University, USA
+Affiliations:\
+(1) Department of Astrophysics, University of Zurich, Switzerland\
+(2) Physics Institute, Space Research and Planetary Sciences, Center for Space and Habitabiliy, University of Bern\
+(3) Department of Earth, Environmental and Planetary Sciences, Rice University, USA
 
 ### Citing this data set
 
