@@ -10,7 +10,10 @@ Authors: Thomas Meier, Christian Reinhardt, Sho Shibata, Simon Müller, Joachim 
 
 Corresponding author: Thomas Meier <thomas.meier5@uzh.ch>
 
-Affiliations: Department of Astrophysics, University of Zurich, Switzerland
+Affiliations:
+Department of Astrophysics, University of Zurich, Switzerland
+Physics Institute, Space Research and Planetary Sciences, Center for Space and Habitabiliy, University of Bern
+Department of Earth, Environmental and Planetary Sciences, Rice University, USA
 
 ### Citing this data set
 
