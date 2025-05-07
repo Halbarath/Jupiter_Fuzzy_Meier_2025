@@ -13,7 +13,8 @@ dy_plot=4
 mass_star=1.
 
 plt.rcParams["font.size"] = 12
-plt.style.use('seaborn-v0_8-colorblind')
+# plt.style.use('seaborn-v0_8-colorblind')
+plt.style.use('seaborn-colorblind')
 cmap = plt.rcParams['axes.prop_cycle'].by_key()['color']
 
 M_ear_cgs       = 5.972e27
@@ -592,7 +593,8 @@ def main():
     #ax.hlines(0.5,0,4)
     k+=1    
 
-    fig.savefig("CollisionNumber_psInc.png",dpi=300,bbox_inches='tight')
+    # fig.savefig("CollisionNumber_psInc.png",dpi=300,bbox_inches='tight')
+    fig.savefig("CollisionNumber_psInc.pdf",bbox_inches='tight')
 
 
     nx=2
@@ -665,7 +667,8 @@ def main():
     #ax.legend()
     k+=1    
 
-    fig.savefig("ImpactParameters_psInc.png",dpi=300,bbox_inches='tight')
+    # fig.savefig("ImpactParameters_psInc.png",dpi=300,bbox_inches='tight')
+    fig.savefig("ImpactParameters_psInc.pdf",bbox_inches='tight')
     
 if __name__ == '__main__':
     main()
