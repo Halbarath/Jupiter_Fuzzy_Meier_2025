@@ -1,6 +1,6 @@
 # Jupiter_Fuzzy_Meier_2025
 
-This repository contains the data underlying some of the figures in the publication below.
+This repository contains the data underlying the figures that are not simulation snapshots in the publication below.
 
 ### Meier et al. (2025)
 
